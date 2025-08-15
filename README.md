@@ -60,17 +60,17 @@ cpp
 (Simulated output without actual ESP32 hardware)
 
 
-Free heap at start: 294120 bytes
-Total SPIFFS space: 1500000 bytes
-Used SPIFFS space: 0 bytes
-Connecting to WiFi...
-Connected
-Free heap after WiFi connection: 292056 bytes
-Starting download...
-File size: 10240 bytes
-Downloaded 10240 bytes
-Download completed in 0.02 seconds
-Average speed: 512.00 KBps
+- Free heap at start: 294120 bytes
+- Total SPIFFS space: 1500000 bytes
+- Used SPIFFS space: 0 bytes
+- Connecting to WiFi...
+- Connected
+- Free heap after WiFi connection: 292056 bytes
+- Starting download...
+- File size: 10240 bytes
+- Downloaded 10240 bytes
+- Download completed in 0.02 seconds
+- Average speed: 512.00 KBps
 
 
 
