@@ -38,8 +38,8 @@ The implementation uses:
 
 ## Configuration
 cpp
-- const char* ssid     = "Saloni07";
-- const char* password = "7741881095";
+- const char* ssid     = "YourWiFiSSID";
+- const char* password = "YourWiFiPassword";
 - const char* fileURL  = "[https://raw.githubusercontent.com/espressif/esp-idf/master/README.md](https://raw.githubusercontent.com/espressif/esp-idf/master/README.md)";
 - const char* filePath = "/downloaded_file.bin";
 
