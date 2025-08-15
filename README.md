@@ -37,14 +37,11 @@ The implementation uses:
   * `SPIFFS.h`
 
 ## Configuration
-
-Edit the following constants in the code before compiling:
-
 cpp
-const char* ssid     = "Saloni07";
-const char* password = "7741881095";
-const char* fileURL  = "[https://raw.githubusercontent.com/espressif/esp-idf/master/README.md](https://raw.githubusercontent.com/espressif/esp-idf/master/README.md)";
-const char* filePath = "/downloaded_file.bin";
+- const char* ssid     = "Saloni07";
+- const char* password = "7741881095";
+- const char* fileURL  = "[https://raw.githubusercontent.com/espressif/esp-idf/master/README.md](https://raw.githubusercontent.com/espressif/esp-idf/master/README.md)";
+- const char* filePath = "/downloaded_file.bin";
 
 ## How It Works
 
